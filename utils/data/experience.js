@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Web Development [Internship]',
-    company: "Bharat Intern Pvt.Ltd",
-    duration: "(30 Nov 2023 - 25 May 2024)"
+    company: "Octanet",
+    duration: "(30 July 2023 - 25 Oct 2023)"
   },
   {
     id: 2,
