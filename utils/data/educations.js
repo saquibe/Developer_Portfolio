@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Master of Computer Application",
-    duration: "Aug 2022 - Jun 2024",
+    duration: "Nov 2022 - Jun 2024",
     institution: "Madan Mohan Malaviya University Of Technology",
   },
   {
