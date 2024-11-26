@@ -47,8 +47,8 @@ export const skillsImage = (skill) => {
       return firebase;
     case 'git':
       return git;
-    case 'restfull api':
-      return restfull api;
+    case 'strapi':
+      return strapi;
     case 'figma':
       return figma;
     default:
