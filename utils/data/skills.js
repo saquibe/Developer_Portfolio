@@ -14,5 +14,5 @@ export const skillsData = [
   'Figma',
   'Git',
   'Firebase',
-  'Restfull api'
+  'Strapi'
   ]
