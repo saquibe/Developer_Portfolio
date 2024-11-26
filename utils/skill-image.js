@@ -39,18 +39,18 @@ export const skillsImage = (skill) => {
       return mysql;
     case 'tailwind':
       return tailwind;
-    case 'c':
-      return c;
+    case 'c++':
+      return c++;
     case 'java':
       return java;
     case 'firebase':
       return firebase;
     case 'git':
       return git;
-    case 'strapi':
-      return strapi;
-    case 'canva':
-      return canva;
+    case 'restfull api':
+      return restfull api;
+    case 'figma':
+      return figma;
     default:
       break;
   }
