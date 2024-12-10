@@ -1,5 +1,5 @@
 export const skillsData = [
-  'C++',
+  'CPP',
   'JAVA',
   'HTML',
   'CSS',
