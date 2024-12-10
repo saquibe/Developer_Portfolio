@@ -1,5 +1,5 @@
 import cpp from '/public/svg/skills/cpp.svg';
-import canva from '/public/svg/skills/canva.svg';
+import figma from '/public/svg/skills/figma.svg';
 import css from '/public/svg/skills/css.svg';
 import firebase from '/public/svg/skills/firebase.svg';
 import git from '/public/svg/skills/git.svg';
