@@ -1,4 +1,4 @@
-import c from '/public/svg/skills/c.svg';
+import cpp from '/public/svg/skills/cpp.svg';
 import canva from '/public/svg/skills/canva.svg';
 import css from '/public/svg/skills/css.svg';
 import firebase from '/public/svg/skills/firebase.svg';
@@ -39,8 +39,8 @@ export const skillsImage = (skill) => {
       return mysql;
     case 'tailwind':
       return tailwind;
-    case 'c++':
-      return c++;
+    case 'cpp':
+      return cpp;
     case 'java':
       return java;
     case 'firebase':
