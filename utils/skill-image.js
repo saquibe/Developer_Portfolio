@@ -14,6 +14,7 @@ import tailwind from '/public/svg/skills/tailwind.svg';
 import typescript from '/public/svg/skills/typescript.svg';
 import nodejs from '/public/svg/skills/nodejs.svg';
 import expressjs from '/public/svg/skills/expressjs.svg';
+import nextjs from '/public/svg/skills/nextjs.svg';
 
 
 export const skillsImage = (skill) => {
@@ -31,6 +32,8 @@ export const skillsImage = (skill) => {
       return react;
       case 'nodejs':
       return nodejs;
+    case 'nextjs':
+      return nextjs;
     case 'typescript':
       return typescript;
     case 'mongodb':
