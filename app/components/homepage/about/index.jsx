@@ -43,7 +43,6 @@ function AboutSection() {
           <p className="text-gray-200 text-sm lg:text-lg leading-relaxed lg:leading-loose">
             {personalData.description}
           </p>
-
           {/* Tech Stack Badges */}
           <div className="mt-8 flex flex-wrap gap-3">
             {[
@@ -70,3 +69,4 @@ function AboutSection() {
 }
 
 export default AboutSection;
+
