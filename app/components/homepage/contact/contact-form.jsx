@@ -87,7 +87,7 @@ function ContactForm() {
           <div>
             <h3 className="text-2xl font-bold text-white">Contact Me</h3>
             <p className="text-gray-400 text-sm">
-              I'll respond within 24 hours
+              I&apos;ll respond within 24 hours
             </p>
           </div>
         </div>
